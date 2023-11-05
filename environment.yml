@@ -1,0 +1,22 @@
+name: ccd-guide
+channels:
+  - astropy
+  - conda-forge
+dependencies:
+- python=3.8
+- astropy >=4
+- astroquery
+- matplotlib
+- ipython
+- jupyter
+- ipywidgets
+- scipy
+- nose
+- mock
+- funcsigs
+- pillow
+- ccdproc
+- scikit-image
+- dask
+- ginga
+- photutils >=1
